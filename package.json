@@ -1,0 +1,15 @@
+{
+  "name": "express-hello",
+  "version": "1.0.0",
+  "description": "to learn",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo 'no test'"
+  },
+  "author": "joaop221",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
